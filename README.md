@@ -44,4 +44,4 @@ Link: <a href="https://github.com/MaksLeseu/blog">Check it out</a>
 ### 📞 Feel free to contact me: 
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxim-lesev-frontend/)
 [<img src="https://img.shields.io/badge/Telegram-1572B6?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/MaximFrontend)
-[<img src='https://img.shields.io/badge/Gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](maximlesev@gmail.com)
+[<img src='https://img.shields.io/badge/Gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](maximlesev@gmail.com) maximlesev@gmail.com
