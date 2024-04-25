@@ -6,10 +6,13 @@ Committed to high code quality standards and effective communication. Proven abi
 
 ### 💼 My projects:
 
-#### Process manager (React)
+#### Blogger platform (React, RTK Query, TypeScript, Radix) - developing
 Link: <a href="https://github.com/MaksLeseu/todolist-toolkit">Check it out</a>
 
-#### Task manager (React)
+#### Process manager (React, Redux toolkit, TypeScript, Material UI)
+Link: <a href="https://github.com/MaksLeseu/todolist-toolkit">Check it out</a>
+
+#### Task manager (React, Redux, TypeScript, StoryBook, Material UI)
 Link: <a href="https://github.com/MaksLeseu/Todolist">Check it out</a>
 
 #### Social network (React)
