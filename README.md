@@ -7,7 +7,7 @@ Committed to high code quality standards and effective communication. Proven abi
 ### 💼 My projects:
 
 #### Blogger platform (React, RTK Query, TypeScript, Radix) - developing
-Link: <a href="https://github.com/MaksLeseu/we">Check it out</a>
+Link: <a href="https://github.com/MaksLeseu/we/tree/dev">Check it out</a>
 
 #### Process manager (React, Redux toolkit, TypeScript, Material UI)
 Link: <a href="https://github.com/MaksLeseu/todolist-toolkit">Check it out</a>
