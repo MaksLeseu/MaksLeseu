@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Frontend developer with over 1.5 years of experience in web development. I have been involved in a project focused on remote monitoring of power generators, stationary fuel tanks, and oil & gas equipment, and I have completed two project works as a frontend developer. In this role, I have undertaken various project tasks, including the development of complex business logic, creation of responsive layouts, and establishment of effective server communication. I utilize technologies such as React, Redux Toolkit, TypeScript, and other tools and libraries.
+I’m a Frontend developer with over 1.9 years of experience in web development. I have been involved in a project focused on remote monitoring of power generators, stationary fuel tanks, and oil & gas equipment, and I have completed two project works as a frontend developer. In this role, I have undertaken various project tasks, including the development of complex business logic, creation of responsive layouts, and establishment of effective server communication. I utilize technologies such as React, Redux Toolkit, TypeScript, and other tools and libraries.
 
 Committed to high code quality standards and effective communication. Proven ability to master new tools & libraries quickly and efficiently. Customer-oriented, and stress-resilient.
 
