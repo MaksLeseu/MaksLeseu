@@ -24,6 +24,11 @@ Link: <a href="https://github.com/MaksLeseu/counter">Check it out</a>
 #### Blog (HTML, CSS, SCSS, JavaScript)
 Link: <a href="https://github.com/MaksLeseu/blog">Check it out</a>
 
+#### My NPM packages
+• <a href="https://github.com/MaksLeseu/eslint-config-maxr2d2">eslint-config-maxr2d2</a> <br>
+• <a href="https://github.com/MaksLeseu/prettier-config-maxr2d2">prettier-config-maxr2d2</a> <br>
+• <a href="https://github.com/MaksLeseu/stylelint-config-maxr2d2">stylelint-config-maxr2d2</a> <br>
+
 
 ### 🗣️ Languages:
  • English – Intermediate (B1) <br>
