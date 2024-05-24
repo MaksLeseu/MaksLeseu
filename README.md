@@ -6,6 +6,9 @@ Committed to high code quality standards and effective communication. Proven abi
 
 ### 💼 My projects:
 
+#### UI-Kit (React, StoryBook) - developing
+Link: <a href="https://github.com/MaksLeseu/ui-kit-package">Check it out</a>
+
 #### Blogger platform (React, RTK Query, TypeScript, Radix) - developing
 Link: <a href="https://github.com/MaksLeseu/we-platform/tree/dev">Check it out</a>
 
