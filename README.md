@@ -6,11 +6,8 @@ Committed to high code quality standards and effective communication. Proven abi
 
 ### 💼 My projects:
 
-#### UI-Kit (React, StoryBook) - developing
-Link: <a href="https://github.com/MaksLeseu/ui-kit-package">Check it out</a>
-
-#### Blogger platform (React, RTK Query, TypeScript, Radix) - developing
-Link: <a href="https://github.com/MaksLeseu/we-platform/tree/dev">Check it out</a>
+#### Weather dashboard (React, Redux toolkit)
+Link: <a href="https://github.com/MaksLeseu/weather-dashboard?tab=readme-ov-file">Check it out</a>
 
 #### Process manager (React, Redux toolkit, TypeScript, Material UI)
 Link: <a href="https://github.com/MaksLeseu/todolist-toolkit">Check it out</a>
