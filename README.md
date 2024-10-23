@@ -37,10 +37,13 @@ Link: <a href="https://github.com/MaksLeseu/blog">Check it out</a>
 
 ### 🧑🏻‍💻 Frontend skills:
 • React <br>
+• React Query <br>
 • Redux | Redux-Thunk | Redux toolkit | RTK Query <br>
 • TypeScript <br>
 • JavaScript <br>
 • Unit testing <br>
+• Jest <br>
+• React-testing library <br>
 • Material UI <br>
 • Axios | RestAPI | WebSockets <br>
 • StoryBook <br>
