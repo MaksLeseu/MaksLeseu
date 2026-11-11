@@ -47,5 +47,5 @@ Senior Frontend Engineer with 6 years of commercial experience, working in teams
 
 ### 📞 Feel free to contact me: 
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxim-lesev-frontend/)
-[<img src="https://img.shields.io/badge/Telegram-1572B6?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/MaximFrontend)
-[<img src='https://img.shields.io/badge/Gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](maximlesev@gmail.com) maksymleseu@gmail.com
+[<img src="https://img.shields.io/badge/Telegram-1572B6?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/Maximus913)
+[<img src='https://img.shields.io/badge/Gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](maksymleseu@gmail.com) maksymleseu@gmail.com
