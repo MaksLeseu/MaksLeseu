@@ -9,7 +9,7 @@ Senior Frontend Engineer with 6 years of commercial experience, working in teams
 
 
 ### 🗣️ Languages:
- • English – Intermediate (B2) <br>
+ • English – Upper-Intermediate (B2) <br>
  • Polish – Intermediate (B1) <br>
  • Belarusian, Russian – native <br>
 
