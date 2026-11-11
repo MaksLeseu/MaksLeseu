@@ -13,7 +13,7 @@ Senior Frontend Engineer with 6 years of commercial experience, working in teams
  • Polish – Intermediate (B1) <br>
  • Belarusian, Russian – native <br>
 
-### 🧑🏻‍💻 Frontend skills:
+### 🧑🏻‍💻 Skills:
 • React | React Query <br>
 • Next.js <br>
 • TypeScript <br>
